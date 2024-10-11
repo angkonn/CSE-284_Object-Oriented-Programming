@@ -1,2 +1,14 @@
-# Object-Oriented-Programming-CSE-284-
-This repository contains code, projects, and assignments from my Object Oriented Programming (CSE-284) course. It covers the core concepts of OOP, implemented using C++ (or any relevant programming language), with a focus on practical applications and problem-solving.
+Object Oriented Programming (CSE-284) 💻
+Welcome to the repository for CSE-284: Object Oriented Programming. This course covers the foundational principles of OOP, providing hands-on experience through coding assignments and projects.
+
+📘 Course Overview:
+The course focuses on key OOP principles:
+
+Classes & Objects
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+🔍 What's Inside:
+Code Implementations: Demonstrating the application of OOP concepts in C++ (or another language).
+Assignments & Projects: Practical exercises to reinforce OOP skills.
